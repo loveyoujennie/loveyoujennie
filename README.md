@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&&show_icons=true&theme=gruvbox_light)
