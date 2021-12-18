@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahee&&show_icons=true&theme=gruvbox_light)
-[![vlog](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=blog&logoColor=black)](https://blog.naver.com/da-heeee)
+[![vlog](https://img.shields.io/badge/vlog-F7DF1E?style=flat-square&logo=blog&logoColor=black)](https://blog.naver.com/da-heeee)
 
  
